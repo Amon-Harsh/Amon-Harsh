@@ -10,8 +10,8 @@
 ## About Me
 - Interested in **AI model development, RAG systems, and real-time AI pipelines**  
 - Experienced with **Python, PyTorch, scikit-learn, Flask, Java, SQL, Linux**  
-- Building projects in **AI-powered customer support and vehicle health diagnostics**  
-- Currently learning **Generative AI (Text, Vision, Speech) & MLOps**  
+- Building projects in **AI-powered customer support and ai agentic models**  
+- Currently learning **NLP, RAG(multimodal RAG based models), end-to-end pipelining & MLOps**  
 - Goal: To secure a role in **AI/ML engineering, data science, or software development** and contribute to impactful projects in the industry.
 
 ---
@@ -42,14 +42,16 @@
 ---
 
 ## Featured Projects
-- [AI Customer Support System](#) – Multi-tenant chatbot with Hugging Face Transformers, fallback to agents, and automated ticket triage  
-  ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask) ![](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch) ![](https://img.shields.io/badge/-HuggingFace-yellow?style=flat&logo=huggingface)
 
-- [Delhi Power Load Prediction](#) – ML model predicting next-day peak electricity demand (RMSE: 121 MW)  
-  ![](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![](https://img.shields.io/badge/-scikit--learn-orange?style=flat&logo=scikitlearn)
+- [Multi-Tenant AI Customer Support Chatbot (Flipr Hackathon)](https://github.com/AnshArya927/Final-Proj) – Team project built in a 72-hour hackathon.  
+  - Role: Major contributor (designed AI pipeline, chatbot logic, fallback to ticket creation, and agent dashboards).  
+  - Features: Multi-tenant chatbot using Hugging Face Transformers, real-time ticket triage, AI-powered agent assistance.  
+  ![](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask) ![](https://img.shields.io/badge/-PyTorch-red?style=for-the-badge&logo=pytorch) ![](https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=huggingface)
 
-- [Vehicle Health Diagnostics System](#) – Real-time OBD-II data analysis with ML-based fault detection and Grafana dashboards  
-  ![](https://img.shields.io/badge/-Grafana-orange?style=flat&logo=grafana) ![](https://img.shields.io/badge/-ML-green?style=flat&logo=python)
+- [RAG Chatbot](https://github.com/amonharsh/rag-chatbot) – Retrieval-Augmented Generation chatbot for querying company documents.  
+  - Built using Flask and Hugging Face pipelines.  
+  - Handles Markdown, supports contextual answers, and integrates chat history storage.  
+  ![](https://img.shields.io/badge/-RAG-blue?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask) ![](https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=huggingface)
 
 ---
 
